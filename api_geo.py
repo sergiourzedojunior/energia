@@ -54,3 +54,5 @@ duration_years_mean = date_info['Duration_Years'].mean()
 pd.DataFrame([date_info['DatInicioProjeto'].min()], columns=['DatInicioProjeto']).to_csv('projeto1.csv', index=False)
 pd.DataFrame([date_info['DatConclusaoProjeto'].max()], columns=['DatConclusaoProjeto']).to_csv('termino_ultimo_proj.csv', index=False)
 pd.DataFrame([duration_years_mean], columns=['Duration_Years']).to_csv('Duration_Years_projects_mean.csv', index=False)
+
+

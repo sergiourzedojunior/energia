@@ -3,9 +3,6 @@ import pandas as pd
 import time
 import webbrowser  # Import needed to use webbrowser for opening URLs
 
-# Load data paths
-# path = "D:\\OneDrive\\energia_lab\\data\\"
-# path1 = "D:\\OneDrive\\energia_lab\\streamlit\\data_steamlit\\" 
 
 # Set Streamlit page config
 st.set_page_config(
