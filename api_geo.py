@@ -56,3 +56,4 @@ pd.DataFrame([date_info['DatConclusaoProjeto'].max()], columns=['DatConclusaoPro
 pd.DataFrame([duration_years_mean], columns=['Duration_Years']).to_csv('Duration_Years_projects_mean.csv', index=False)
 
 
+##### 
