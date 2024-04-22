@@ -3,7 +3,6 @@
 **Project Overview:**
 Energia Lab focuses on the analysis and enhancement of energy efficiency. It integrates various tools and technologies to manage and analyze energy project data effectively.
 
-![Energia Lab Project Overview](EnergiaLabProjectOverview.png)
 
 **Key Components:**
 - **Jupyter Notebooks**: For data manipulation and visualization.
