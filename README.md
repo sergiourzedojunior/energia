@@ -34,3 +34,10 @@ Energia Lab focuses on the analysis and enhancement of energy efficiency. It int
 2. Map state data to geospatial coordinates.
 3. Visualize data using `folium` with interactive color scales based on efficiency scores.
 4. Integrate visualizations into Streamlit for interactive user experiences.
+
+**App Streamlit:**
+1. Clone project from github to WSL.
+2. Install docker dependencies on WSL.
+3. Create a container for the application .
+4. Create service in GCP cloud run.
+cloud run: https://energia-7g5gf6xo6q-uc.a.run.app
